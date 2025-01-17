@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/shlokkatu" target="blank"><img src="https://img.shields.io/twitter/follow/shlokkatu?logo=twitter&style=for-the-badge" alt="shlokkatu" /></a> </p>
 
-- 🔭 I’m currently working on **ZOOM**
+- 🔭 I’m currently working on **E-commerce website**
 
 - 🌱 I’m currently learning **Backend**
 
