@@ -12,17 +12,9 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 🤝 I’m looking for help with **Air bnb**
-
 - 👨‍💻 All of my projects are available at [https://github.com/shlokkatu](https://github.com/shlokkatu)
 
-- 📝 I regularly write articles on [https://www.blogger.com/u/0/blog/page/edit/4841128517984015113/7890192927298442282](https://www.blogger.com/u/0/blog/page/edit/4841128517984015113/7890192927298442282)
-
-- 💬 Ask me about **MERN**
-
 - 📫 How to reach me **shlokkatu@gmail.com**
-
-- ⚡ Fun fact **I think I am shy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
